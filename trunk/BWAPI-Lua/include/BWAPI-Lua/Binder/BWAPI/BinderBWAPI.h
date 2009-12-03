@@ -1,0 +1,9 @@
+#pragma once
+#include <BWAPI-Lua/Binder/BWAPI/BinderGame.h>
+#include <BWAPI-Lua/Binder/BWAPI/BinderPlayer.h>
+#include <BWAPI-Lua/Binder/BWAPI/BinderRace.h>
+#include <BWAPI-Lua/Binder/BWAPI/BinderTechType.h>
+#include <BWAPI-Lua/Binder/BWAPI/BinderUnit.h>
+#include <BWAPI-Lua/Binder/BWAPI/BinderUnitType.h>
+#include <BWAPI-Lua/Binder/BWAPI/BinderUpgradeType.h>
+#include <BWAPI-Lua/Binder/BWAPI/BinderWeaponType.h>
